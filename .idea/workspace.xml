@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f36390b-1ed1-4d97-9377-f9e820bb4cb3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../BDDFramework/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BDDFramework/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BDDFramework/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BDDFramework/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BDDFramework/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BDDFramework/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BDDFramework/BDDFramework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BDDFramework/src/test/java/feature/Login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel10Test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel10Test/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel10Test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel10Test/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel10Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel10Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel10Test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel10Test/PageModel10Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel10Test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel10Test/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel10Test/src/main/java/org/example/BasePage10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel10Test/src/main/java/org/example/Utils10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel10Test/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel10Test/src/test/java/org/example/BaseTest10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel10Test/src/test/java/org/example/TestSuit10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel1Test/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel1Test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel1Test/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel1Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel1Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel1Test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel1Test/PageModel1Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel1Test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel1Test/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel1Test/src/main/java/org/example/BasePage1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel1Test/src/main/java/org/example/Utils1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel1Test/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel1Test/src/test/java/org/example/BaseTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel1Test/src/test/java/org/example/TestSuit1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel2Test/PageModel2Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel2Test/src/main/java/org/example/BaseClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel2Test/src/main/java/org/example/Utilis2Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel2Test/src/test/java/org/example/Base2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel2Test/src/test/java/org/example/TestSuit2Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel3Test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel3Test/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel3Test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel3Test/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel3Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel3Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel3Test/PageModel3Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel3Test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel3Test/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel3Test/src/main/java/org/example/BasePage3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel3Test/src/main/java/org/example/Utils3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel3Test/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel3Test/src/test/java/org/example/BaseTest3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel3Test/src/test/java/org/example/TestSuit3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel4Test/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel4Test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel4Test/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel4Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel4Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel4Test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel4Test/PageModel4Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel4Test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel4Test/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel4Test/src/main/java/org/example/BasePage4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel4Test/src/main/java/org/example/Utils4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel4Test/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel4Test/src/test/java/org/example/BaseTest4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel4Test/src/test/java/org/example/TestSuit4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel5Test/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel5Test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel5Test/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel5Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel5Test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel5Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel5Test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel5Test/PageModel5Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel5Test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel5Test/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel5Test/src/main/java/org/example/BasePage5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel5Test/src/main/java/org/example/Utils5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel5Test/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel5Test/src/test/java/org/example/BaseTest5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel5Test/src/test/java/org/example/TestSuits5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/PageModel6Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/main/java/org/example/BasePage6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/main/java/org/example/Utils6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/site/apt/format.apt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/site/apt/index.apt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/site/fml/faq.fml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/site/fr/apt/format.apt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/site/fr/apt/index.apt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/site/fr/fml/faq.fml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/site/fr/markdown/markdown-velocity.md.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/site/fr/markdown/markdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/site/fr/xdoc/xdoc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/site/markdown/markdown-velocity.md.vm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/site/markdown/markdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/site/site.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/site/site_fr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/site/xdoc/xdoc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/test/java/org/example/BaseTest6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel6Test/src/test/java/org/example/TetsSuit6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel7Test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel7Test/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel7Test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel7Test/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel7Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel7Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel7Test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel7Test/PageModel7Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel7Test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel7Test/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel7Test/src/main/java/org/example/BasePage7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel7Test/src/main/java/org/example/Utils7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel7Test/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel7Test/src/test/java/org/example/BaseTest7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel7Test/src/test/java/org/example/TestSuit7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel8Test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel8Test/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel8Test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel8Test/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel8Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel8Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel8Test/PageModel8Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel8Test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel8Test/src/main/java/org/example/BasePage8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel8Test/src/main/java/org/example/Utils8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel8Test/src/test/java/org/example/BaseTest8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel8Test/src/test/java/org/example/TestSuit8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel9Test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel9Test/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel9Test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel9Test/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel9Test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel9Test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel9Test/PageModel9Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel9Test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel9Test/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel9Test/src/main/java/org/example/BasePage9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel9Test/src/main/java/org/example/Utils9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel9Test/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel9Test/src/test/java/org/example/BaseTest9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageModel9Test/src/test/java/org/example/TestSuit9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main/PageObjectModelHomework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main/target/classes/org/example/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main/target/classes/org/example/BrowserSelector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main/target/classes/org/example/ComputerPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main/target/classes/org/example/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main/target/classes/org/example/LoadProperty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main/target/classes/org/example/NewOnlinePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main/target/classes/org/example/NikeProducts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main/target/classes/org/example/RegisterPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main/target/classes/org/example/ResultVerificationPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main/target/classes/org/example/SoftwarePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main/target/classes/org/example/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main/target/test-classes/BrowserDriver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main/target/test-classes/BrowserDriver/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main/target/test-classes/BrowserDriver/msedgedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main/target/test-classes/BrowserDriver/msedgedriver92.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PageObjectModelHomework-main/target/test-classes/TestData/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PraticeJavaFiles/hompage/KrutikDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PraticeJavaFiles/hompage/ManualTestingTopics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectPageObjectModel/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectPageObjectModel/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectPageObjectModel/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectPageObjectModel/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectPageObjectModel/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectPageObjectModel/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectPageObjectModel/ProjectPageObjectModel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectPageObjectModel/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectPageObjectModel/src/main/java/org/example/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectPageObjectModel/src/main/java/org/example/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectPageObjectModel/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectPageObjectModel/src/test/java/org/example/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectPageObjectModel/src/test/java/org/example/TestSuit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/Class 11 defination.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/SeleniumLearning.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/msedgedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/operadriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/HomeWork2/DemoRegistrationForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/HomeWork2/PraticeRegisterForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/HomeWork2/RegistrationForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/HomeWork3/BuyLenovo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/HomeWork3/CodeFromTutor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumClass3/ClassActionsSendKeys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumClass3/ClassCustomCSSSelector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumClass3/ClassDragAndDropConcept.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumClass3/ClassExplicit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumClass3/ClassImplicitWaits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumClass3/ClassNewFileProperty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumClass3/ClassRightClickConcept.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumClass3/ClassScrollingPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumClass3/ClassUtitlity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumClass3/ReadProp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumClass3/Text.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumSession/AlertPopupPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumSession/DemoLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumSession/DropDownHandlePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumSession/WebDrivePagesConcept.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumSession/WebDriverBasic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumSession/WebDriverEdge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumSession/WebDriverFox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeleniumLearning/src/main/java/SeleniumSession/WebDriverOpera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TrialPractise/hompage/KrutikDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TrialPractise/hompage/ManualTestingTopics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TryPractiseFolder" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+  </component>
+  <component name="ProjectId" id="1tdORuCuLoW8ctL3KIIotXdzUPq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PageModel2Test" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuit1.userShouldBeAbleToLoginSuccessfully">
+    <configuration name="Utils1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Utils1" />
+      <module name="PageModel1Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageModel1Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit1.userShouldBeAbleToBuyCellPhoneSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageModel1Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit1" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToBuyCellPhoneSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit1.userShouldBeAbleToLoginSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageModel1Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit1" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToLoginSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit1.userShouldBeAbleToRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PageModel1Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit1" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuit1.userShouldBeAbleToLoginSuccessfully" />
+        <item itemvalue="TestNG.TestSuit1" />
+        <item itemvalue="TestNG.TestSuit1.userShouldBeAbleToRegisterSuccessfully" />
+        <item itemvalue="TestNG.TestSuit1.userShouldBeAbleToBuyCellPhoneSuccessfully" />
+        <item itemvalue="Application.Utils1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f36390b-1ed1-4d97-9377-f9e820bb4cb3" name="Default Changelist" comment="" />
+      <created>1623095496997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623095496997</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
